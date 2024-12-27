@@ -1,0 +1,1 @@
+Creación de un chatbot que puede responder a preguntas específicas usando modelos de procesamiento de lenguaje natural (NLP) preentrenados. El chatbot extrae respuestas de un conjunto de datos o textos que se le proporcionan.
