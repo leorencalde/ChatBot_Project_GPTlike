@@ -1,0 +1,11 @@
+# Opciones predefinidas de contexto
+examples = {
+    "Historia de la IA": """La inteligencia artificial (IA) es la simulación de procesos de inteligencia humana por parte de sistemas informáticos. 
+    Incluye aprendizaje automático, razonamiento y autocorrección. Aplicaciones populares de IA incluyen asistentes virtuales, visión artificial y robótica.""",
+    
+    "Tesla y la movilidad eléctrica": """Tesla, Inc. es una empresa estadounidense fundada en 2003, especializada en vehículos eléctricos y energía renovable. 
+    Sus coches están diseñados con baterías de alto rendimiento y capacidades de conducción autónoma. Tesla ha revolucionado la industria automotriz con innovaciones en baterías y software.""",
+    
+    "Historia de Python": """Python es un lenguaje de programación interpretado y de alto nivel creado por Guido van Rossum en 1991. 
+    Se utiliza ampliamente en ciencia de datos, desarrollo web, inteligencia artificial y más debido a su sintaxis clara y facilidad de uso.""",
+}
