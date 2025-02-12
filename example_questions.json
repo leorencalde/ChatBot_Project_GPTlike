@@ -1,0 +1,13 @@
+{
+    "Historia de la IA": {
+      "context": "La inteligencia artificial (IA) es la simulación de procesos de inteligencia humana por parte de sistemas informáticos...",
+      "question": "¿Qué es la inteligencia artificial?",
+      "expected_answer": "La simulación de procesos de inteligencia humana por sistemas informáticos."
+    },
+    "Tesla y la movilidad eléctrica": {
+      "context": "Tesla, Inc. es una empresa especializada en vehículos eléctricos...",
+      "question": "¿Cuándo se fundó Tesla?",
+      "expected_answer": "Tesla fue fundada en 2003."
+    }
+  }
+  
