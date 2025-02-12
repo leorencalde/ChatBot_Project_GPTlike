@@ -1,1 +1,8 @@
-Creación de un chatbot que puede responder a preguntas específicas usando modelos de procesamiento de lenguaje natural (NLP) preentrenados. El chatbot extrae respuestas de un conjunto de datos o textos que se le proporcionan.
+# ChatBot Project GPT-like 🤖
+
+Este chatbot responde preguntas basadas en un contexto usando modelos de inteligencia artificial preentrenados.
+
+## 🚀 Instalación
+Ejecuta el siguiente comando para instalar las dependencias:
+```bash
+pip install -r requirements.txt
